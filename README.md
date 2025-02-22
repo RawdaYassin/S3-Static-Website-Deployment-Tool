@@ -1,4 +1,4 @@
-[S3 Static Website Deployment Tool]
+## S3 Static Website Deployment Tool
 This project provides a GUI-based tool to upload a ZIP file containing a static website, extract its contents, and deploy it to an Amazon S3 bucket with a unique deployment link.
 
 [Features]
