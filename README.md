@@ -9,8 +9,8 @@ This project provides a GUI-based tool to upload a ZIP file containing a static 
   5 - Generate a shareable deployment link
 
 [How to use?]
-  1 - Run python gui.py
-  2 - Click "Upload ZIP File"
+  1] Run python gui.py
+  2] Click "Upload ZIP File"
   3 - Select a ZIP file containing your website
   4 - The tool will extract, upload, and generate a deployment URL
   5 - Copy the deployment link and share it 
